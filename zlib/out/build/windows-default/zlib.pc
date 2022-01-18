@@ -1,0 +1,13 @@
+prefix=C:/Projects/ghostscript-master/zlib/out/install/windows-default
+exec_prefix=C:/Projects/ghostscript-master/zlib/out/install/windows-default
+libdir=C:/Projects/ghostscript-master/zlib/out/install/windows-default/lib
+sharedlibdir=C:/Projects/ghostscript-master/zlib/out/install/windows-default/lib
+includedir=C:/Projects/ghostscript-master/zlib/out/install/windows-default/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.7
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

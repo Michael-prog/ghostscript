@@ -1,0 +1,151 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {
+      "NUnit/3.13.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net40/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win": {
+      "NUnit/3.13.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net40/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win-x64": {
+      "NUnit/3.13.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net40/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win-x86": {
+      "NUnit/3.13.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net40/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NUnit/3.13.2": {
+      "sha512": "u+fz/lXyR4vlamySNAEMrXvh+GhAQiB6/aVZtU5WjivR5zF26Ui0tfteDtWqT90k9D8y6g8rFKYQC97Z7d195w==",
+      "type": "package",
+      "path": "nunit/3.13.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.md",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "build/NUnit.props",
+        "icon.png",
+        "lib/net35/nunit.framework.dll",
+        "lib/net35/nunit.framework.xml",
+        "lib/net40/nunit.framework.dll",
+        "lib/net40/nunit.framework.xml",
+        "lib/net45/nunit.framework.dll",
+        "lib/net45/nunit.framework.xml",
+        "lib/netstandard2.0/nunit.framework.dll",
+        "lib/netstandard2.0/nunit.framework.xml",
+        "nunit.3.13.2.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": [
+      "NUnit >= 3.13.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\ghostscript-master\\zlib\\contrib\\dotzlib\\DotZLib\\DotZLib.csproj",
+      "projectName": "DotZLib",
+      "projectPath": "C:\\Projects\\ghostscript-master\\zlib\\contrib\\dotzlib\\DotZLib\\DotZLib.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\ghostscript-master\\zlib\\contrib\\dotzlib\\DotZLib\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net40"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Projects\\MuPDFCore-master\\MuPDFCore.MuPDFRenderer": {},
+        "C:\\Users\\User\\.nuget\\packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "dependencies": {
+          "NUnit": {
+            "target": "Package",
+            "version": "[3.13.2, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

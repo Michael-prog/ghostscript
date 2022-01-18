@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMSCpPSR7/WIenDqZlvOJfgtvbSBAp29N7Oe2Gw5VEg+6dXSYas3fb5DN0pNYvGY+/qzTKt2UvOp3hBbpkvZJA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ghostscript-master\\zlib\\contrib\\dotzlib\\DotZLib\\DotZLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}

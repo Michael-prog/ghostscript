@@ -1,0 +1,9 @@
+C:\Projects\ghostscript-master\zlib\contrib\dotzlib\DotZLib\bin\Debug\DotZLib.dll
+C:\Projects\ghostscript-master\zlib\contrib\dotzlib\DotZLib\bin\Debug\DotZLib.pdb
+C:\Projects\ghostscript-master\zlib\contrib\dotzlib\DotZLib\bin\Debug\DotZLib.xml
+C:\Projects\ghostscript-master\zlib\contrib\dotzlib\DotZLib\bin\Debug\nunit.framework.dll
+C:\Projects\ghostscript-master\zlib\contrib\dotzlib\DotZLib\obj\Debug\DotZLib.csproj.AssemblyReference.cache
+C:\Projects\ghostscript-master\zlib\contrib\dotzlib\DotZLib\obj\Debug\DotZLib.csproj.CoreCompileInputs.cache
+C:\Projects\ghostscript-master\zlib\contrib\dotzlib\DotZLib\obj\Debug\DotZLib.csproj.CopyComplete
+C:\Projects\ghostscript-master\zlib\contrib\dotzlib\DotZLib\obj\Debug\DotZLib.dll
+C:\Projects\ghostscript-master\zlib\contrib\dotzlib\DotZLib\obj\Debug\DotZLib.pdb

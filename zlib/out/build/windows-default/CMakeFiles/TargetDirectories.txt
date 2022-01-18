@@ -1,0 +1,10 @@
+C:/Projects/ghostscript-master/zlib/out/build/windows-default/CMakeFiles/zlib.dir
+C:/Projects/ghostscript-master/zlib/out/build/windows-default/CMakeFiles/zlibstatic.dir
+C:/Projects/ghostscript-master/zlib/out/build/windows-default/CMakeFiles/example.dir
+C:/Projects/ghostscript-master/zlib/out/build/windows-default/CMakeFiles/list_install_components.dir
+C:/Projects/ghostscript-master/zlib/out/build/windows-default/CMakeFiles/minigzip.dir
+C:/Projects/ghostscript-master/zlib/out/build/windows-default/CMakeFiles/rebuild_cache.dir
+C:/Projects/ghostscript-master/zlib/out/build/windows-default/CMakeFiles/test.dir
+C:/Projects/ghostscript-master/zlib/out/build/windows-default/CMakeFiles/edit_cache.dir
+C:/Projects/ghostscript-master/zlib/out/build/windows-default/CMakeFiles/install/local.dir
+C:/Projects/ghostscript-master/zlib/out/build/windows-default/CMakeFiles/install.dir
